@@ -7,6 +7,8 @@ A simple voting system where users vote on proposals with weights based on their
 - Create and manage proposals
 - Vote on proposals with weighted votes based on token holdings
 - Track user votes to prevent double voting
+- Retrieve proposal details
+- Check if a user has voted on a proposal
 
 ## Contract Details
 
